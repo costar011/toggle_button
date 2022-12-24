@@ -13,8 +13,10 @@ input [type="checkbox"] {
 
   visibility: hidden;
   display: none;
-
+  border: hidden;
 }
+
+
 
 label {
   cursor: pointer;
